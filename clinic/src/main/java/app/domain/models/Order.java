@@ -15,5 +15,5 @@ public class Order {
         private User doctor;
         private Date date;
         private OrderItem[] orderItems;
-    
+
 }
